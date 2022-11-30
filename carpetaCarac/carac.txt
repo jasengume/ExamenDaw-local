@@ -1,0 +1,1 @@
+En git podemos ver que persona ha realizado cambios, su correo, la fecha y la hora.
